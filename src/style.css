@@ -1,0 +1,93 @@
+div.card.app-wrapper {
+  background-image: linear-gradient(to top, #48c6ef 0%, #6f86d6 100%);
+  background-size: 100%;
+  border-radius: 13px;
+  margin: 40px auto;
+  padding: 30px 25px;
+  width: 750px;
+}
+
+form {
+  font-family: "Roboto", sans-serif;
+}
+
+section.Valencia {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  color: #fff;
+  text-align: center;
+}
+
+section.Forecast {
+  font-family: "Pacifico", cursive;
+  font-size: 15px;
+  color: #fff;
+  margin-top: 50px;
+  text-align: center;
+}
+
+section.icon {
+  text-align: center;
+  font-family: "Pacifico", cursive;
+  color: #fff;
+}
+
+h1 {
+  font-family: "Pacifico", cursive;
+  font-size: 50px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+h2 {
+  font-family: "Pacifico", cursive;
+  color: #fff;
+  font-size: 18px;
+  text-align: left;
+}
+
+h4 {
+  font-family: "Pacifico", cursive;
+  font-size: 30px;
+  text-align: center;
+  margin: 15px;
+}
+
+p {
+  font-size: 12px;
+  font-family: "Roboto", sans-serif;
+}
+
+div.card {
+  width: 150px;
+  background: rgba(243, 245, 247, 0.719);
+  box-shadow: 2px 2px 2px rgba(26, 107, 161, 0.479);
+  padding: 20px 0px;
+  margin: auto;
+}
+
+.card-title {
+  font-family: "Pacifico", cursive;
+  text-align: center;
+  color: #435055;
+  font-size: 16px;
+}
+
+.card-text {
+  color: #435055;
+  font-size: 16px;
+  text-align: center;
+}
+
+.card-icon {
+  text-align: center;
+}
+
+a {
+  font-size: 15px;
+  font-family: "Roboto", sans-serif;
+}
+
+.line {
+  font-size: 10px;
+}
