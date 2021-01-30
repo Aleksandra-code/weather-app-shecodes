@@ -91,3 +91,8 @@ a {
 .line {
   font-size: 10px;
 }
+.open-source {
+  font-size: 10px;
+  font-family: "Pacifico", cursive;
+  color: #435055;
+}
