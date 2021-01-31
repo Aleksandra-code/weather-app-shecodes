@@ -95,4 +95,16 @@ a {
   font-size: 10px;
   font-family: "Pacifico", cursive;
   color: #435055;
+  display: inline-block;
+  margin-bottom: 50px;
+  text-align: center;
+}
+.open-source-name {
+  font-size: 10px;
+  font-family: "Pacifico", cursive;
+  color: #435055;
+  display: inline;
+}
+.author {
+  text-align: center;
 }
